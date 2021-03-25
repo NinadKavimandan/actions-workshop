@@ -1,5 +1,5 @@
 {
-  "name": "@NinadKavimandan/actions-workshop",
+  "name": "actions-workshop",
   "version": "0.1.0",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.9",
